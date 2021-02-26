@@ -18,7 +18,10 @@ details,
 figcaption,
 figure,
 footer,
-header,
+
+header{
+  background: #55d6aa;
+}
 hgroup,
 main,
 menu,
