@@ -1,7 +1,6 @@
 # Delani Studios
 
-This is a  fictional studio (Gym) I built to aid better my grasp of various concepts in Bootstrap and JQuery.
-
+Thi is a Functional studio(Delani Studio) I built to aid better my grasp of various concepts in Bootstrap and JQuery.
 #### Author: Odundo Ian Frank
 
 ## Getting Started
